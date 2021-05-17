@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "./static/js/main.cd58bbed.chunk.js",
-    "main.js.map": "./static/js/main.cd58bbed.chunk.js.map",
+    "main.js": "./static/js/main.b27dba7f.chunk.js",
+    "main.js.map": "./static/js/main.b27dba7f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f12c197a.js",
     "runtime-main.js.map": "./static/js/runtime-main.f12c197a.js.map",
-    "static/js/2.08834b2e.chunk.js": "./static/js/2.08834b2e.chunk.js",
-    "static/js/2.08834b2e.chunk.js.map": "./static/js/2.08834b2e.chunk.js.map",
+    "static/js/2.28ee0a78.chunk.js": "./static/js/2.28ee0a78.chunk.js",
+    "static/js/2.28ee0a78.chunk.js.map": "./static/js/2.28ee0a78.chunk.js.map",
     "index.html": "./index.html",
-    "static/js/2.08834b2e.chunk.js.LICENSE.txt": "./static/js/2.08834b2e.chunk.js.LICENSE.txt",
+    "static/js/2.28ee0a78.chunk.js.LICENSE.txt": "./static/js/2.28ee0a78.chunk.js.LICENSE.txt",
     "static/media/logo-afropedia.a43d751b.png": "./static/media/logo-afropedia.a43d751b.png",
     "static/media/logo-eurosynerg.8fb8c759.png": "./static/media/logo-eurosynerg.8fb8c759.png",
     "static/media/logo-footkorner.bf3b9c58.png": "./static/media/logo-footkorner.bf3b9c58.png",
@@ -16,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f12c197a.js",
-    "static/js/2.08834b2e.chunk.js",
-    "static/js/main.cd58bbed.chunk.js"
+    "static/js/2.28ee0a78.chunk.js",
+    "static/js/main.b27dba7f.chunk.js"
   ]
 }
